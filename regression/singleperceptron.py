@@ -8,7 +8,7 @@ y_v=np.array([3,5,7,9,11]) # the relation is : 2x_f+1 so in the ouput after trai
 w=0.0
 b=0.0
 
-rate of learning 
+#rate of learning 
 lr=0.01
 
 rp =1000 #times___to repeat__to__train
